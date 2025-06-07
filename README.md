@@ -1,12 +1,12 @@
 # Minimal walking simulator with Unity
 
-A mini Unity project created in **one sitting** as a quick prototype for a colleague's dissertation — used as an interactive storytelling medium. Now showcased here as an example of how easy it is to create a functional first-person 3D walking simulator using Unity, free assets, and a single script.
+A mini Unity project created in **one sitting** as a quick prototype for a colleague's dissertation — used as a storytelling medium. Now showcased here as an example of how easy it is to create a functional first-person 3D walking simulator using Unity, free assets, and a single script.
 
 ![Screenshot](./theseuslabyrinth.png)
 
 ## Play the Game
 
-Try it out on [Unity Play](https://play.unity.com/en/games/86aa24a4-12c2-4350-9c38-be35adc5188c/theseus-labyrinth)  
+Try it out on [Unity Play](https://play.unity.com/en/games/86aa24a4-12c2-4350-9c38-be35adc5188c/theseus-labyrinth)!
 
 ## What's Inside?
 
