@@ -4,13 +4,9 @@ A mini Unity project created in **one sitting** as a quick prototype for a colle
 
 ![Screenshot](./theseuslabyrinth.png)
 
----
-
 ## Play the Game
 
 Try it out on [Unity Play](https://play.unity.com/en/games/86aa24a4-12c2-4350-9c38-be35adc5188c/theseus-labyrinth)  
-
----
 
 ## What's Inside?
 
@@ -23,16 +19,12 @@ This mini-project is intentionally minimalist and uses only built-in Unity featu
 - A single directional light for global illumination
 - All physics, collisions, and lighting are handled by Unity URP (built-in renderer)
 
----
-
 ## Features
 
 - Smooth first-person camera and movement
 - Ambient lighting and materials for visual appeal
 - Fully playable in-browser or as a desktop build
 - Ultra-simple structure: _just one script and one scene_
-
----
 
 ## To be added
 
