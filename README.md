@@ -1,3 +1,3 @@
 # theseus-labyrinth
 
-[Screenshot](theseuslabyrinth.png)
+[Screenshot](theseus-labyrinth/theseuslabyrinth.png)
