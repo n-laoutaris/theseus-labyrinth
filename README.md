@@ -1,6 +1,6 @@
 # Minimal walking simulator with Unity
 
-A mini Unity project created in **one sitting** as a quick prototype for a colleague's dissertation — used as a storytelling medium. Now showcased here as an example of how easy it is to create a functional first-person 3D walking simulator using Unity, free assets, and a single script.
+A mini Unity project created in **one sitting** as a quick prototype for a colleague's dissertation, where it was used as a storytelling medium. Now showcased here as an example of how easy it is to create a functional first-person 3D walking simulator using Unity, free assets and a single script.
 
 ![Screenshot](./theseuslabyrinth.png)
 
@@ -10,14 +10,14 @@ Try it out on [Unity Play](https://play.unity.com/en/games/86aa24a4-12c2-4350-9c
 
 ## What's Inside?
 
-This mini-project is intentionally minimalist and uses only built-in Unity features and a few free resources:
+This project is intentionally minimalist and uses only built-in Unity features and a few free resources:
 
 - A simple 3D labyrinth scene made of geometric primitives (cubes and planes)
 - A first-person controller built from scratch using just one C# script
 - Materials for the walls and floor
 - A skybox image to enhance visual atmosphere
 - A single directional light for global illumination
-- All physics, collisions, and lighting are handled by Unity URP (built-in renderer)
+- All physics, collisions and lighting are handled by Unity URP (built-in renderer)
 
 ## Features
 
